@@ -1,0 +1,38 @@
+.breathVertical
+{
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-decoration: line-through;
+    color: red;
+}
+.breathHorizontal
+{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-color: red;
+}
+
+h3 {
+    display: inline-block;
+    margin: 0;
+}
+div.todoStatusACTIVE{
+    color:blue;
+}
+
+div.todoStatusCOMPLETE{
+    color:green;
+}
+div.todoStatusDELETED{
+    color:red;
+}
+#a_list,#c_list,#d_list{
+    background-color: darkgrey;
+}
+#body_div
+{
+    margin-left: 200px ;
+    margin-right: 200px;
+    background-color: beige;
+
+}
